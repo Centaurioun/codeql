@@ -12,6 +12,6 @@
         "watch": "tsc -p . -w --sourceMap"
     },
     "devDependencies": {
-        "@types/node": "12.7.11"
+        "@types/node": "18.13.0"
     }
 }
